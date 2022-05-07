@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm IKRAM RACHY, (irachyq)</h1>
+	Hi there <img src="https://user-images.githubusercontent.com/49567393/149633910-977f6211-103e-4220-b74d-8bf8cd9a896f.gif" width="30px">, I'm IKRAM RACHYQ, (irachyq)</h1>
 	I'm a Engineering student in computer science and engineeringdata at the ENSA of
 KHOURIBGA and student at 1337 khouribga (42 Network).
 	</br>
